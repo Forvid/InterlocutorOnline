@@ -7,3 +7,5 @@ pluginManagement {
 }
 rootProject.name = "InterlocutorOnline"
 
+git add .
+git commit -m "InterlocutorOnline"
